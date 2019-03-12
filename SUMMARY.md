@@ -1,5 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [概念](ch0/concept.md)
+* [项目简介](README.md)
+* [bash概念](ch0/concept.md)
+* [学习bash](ch1/guide.md)
+* [参考](reference.md)
 
