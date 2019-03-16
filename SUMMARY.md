@@ -2,6 +2,6 @@
 * [项目结构与框架](project.md)
 * [语言风格](language/intro.md)
   * [html](language/html.md)
-  * [css/sass/scss/less](language/html.md)
+  * [css/sass/scss/less](language/css.md)
   * [javascript/typescript](language/javascript.md)
 * [参考](reference.md)
