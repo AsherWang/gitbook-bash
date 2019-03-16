@@ -1,2 +1,3 @@
 # 参考
-- [什么是shell? bash和shell有什么关系？](https://www.cnblogs.com/hihtml5/p/9272751.html)
+1. [Front-End Coding Guidelines](https://guide.aotu.io/)
+2. [网易前端代码规范](http://nec.netease.com/) 
